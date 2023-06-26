@@ -32,7 +32,7 @@ Before joining the CEDAR team, I received my undergraduate degree from College o
 
 # 📝 Publications 
 
-- Transformation Consistency for Remote Sensing Image Super-Resolution
+- Transformation Consistency for Remote Sensing Image Super-Resolution (To Appear)
 
   Kai Deng, Ping Yao, Siyuan Cheng, Junyu Bi, Kun Zhang
 
