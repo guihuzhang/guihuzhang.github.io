@@ -32,6 +32,12 @@ Before joining the CEDAR team, I received my undergraduate degree from College o
 
 # 📝 Publications 
 
+- Transformation Consistency for Remote Sensing Image Super-Resolution
+
+  Kai Deng, Ping Yao, Siyuan Cheng, Junyu Bi, Kun Zhang
+
+  **IEEE ICIP, 2023**
+
 - [Learning Positional Priors for Pretraining 2D Pose Estimators](https://dl.acm.org/doi/10.1145/3475723.3484252) 
   
   Kun Zhang, Ping Yao, Rui Wu, Chuanguang Yang, Ding Li, Min Du, Kai Deng, Renbiao Liu, Tianyao Zheng
