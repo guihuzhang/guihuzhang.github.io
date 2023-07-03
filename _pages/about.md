@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second year doctoral student in the <a href='https://team.inria.fr/cedar/'>CEDAR team</a>, supervised by <a href='https://pages.saclay.inria.fr/ioana.manolescu/'>Ioana Manolescu</a> and <a href='https://oanabalalau.com/'>Oana Balalau</a>. 
+I am a second year doctoral student at Inria Saclay-Île-de-France. I work in in the <a href='https://team.inria.fr/cedar/'>CEDAR team</a>, supervised by <a href='https://pages.saclay.inria.fr/ioana.manolescu/'>Ioana Manolescu</a> and <a href='https://oanabalalau.com/'>Oana Balalau</a>. 
 
 My research topic is about natural language tasks over heterogeneous knowledge graphs in project <a href='https://sourcessay.inria.fr/'>SourcesSay</a>. 
 
