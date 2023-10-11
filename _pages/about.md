@@ -24,8 +24,9 @@ My research topic is about natural language tasks over heterogeneous knowledge g
 I'm originally from <a href='https://en.wikipedia.org/wiki/Haiyang'>Haiyang</a>, a small county on the Jiaodong Peninsula in eastern China.
  I received my undergraduate degree from College of Elite Education (now known as the <a href='https://qxs.njust.edu.cn/main.htm'>Qian Xuesen Honours College</a>), Nanjing University of Science and Technology, and I received my master’s degree from <a href='http://www.ict.cas.cn/'>Institute of Computing Technology, Chinese Academy of Sciences</a>.
 
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+I decline to serve those who understand various languages but persist in replying with their less commonly understood "superior" languages.
 
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -33,7 +34,13 @@ I'm originally from <a href='https://en.wikipedia.org/wiki/Haiyang'>Haiyang</a>,
 
 # 📝 Publications 
 
-- Transformation Consistency for Remote Sensing Image Super-Resolution (To Appear)
+- FactSpotter: Evaluating the Factual Faithfulness of Graph-to-Text Generation (To appear)
+
+  Kun Zhang, Oana Balalau, Ioana Manolescu
+
+  **EMNLP Findings, 2023**
+
+- [Transformation Consistency for Remote Sensing Image Super-Resolution](https://ieeexplore.ieee.org/document/10222766)
 
   Kai Deng, Ping Yao, Siyuan Cheng, Junyu Bi, Kun Zhang
 
