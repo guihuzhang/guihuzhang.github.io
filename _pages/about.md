@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second year doctoral student at Inria Saclay-Île-de-France. I work in in the <a href='https://team.inria.fr/cedar/'>CEDAR team</a>, supervised by <a href='https://pages.saclay.inria.fr/ioana.manolescu/'>Ioana Manolescu</a> and <a href='https://oanabalalau.com/'>Oana Balalau</a>. 
+I am a third year doctoral student at Inria Saclay-Île-de-France. I work in in the <a href='https://team.inria.fr/cedar/'>CEDAR team</a>, supervised by <a href='https://pages.saclay.inria.fr/ioana.manolescu/'>Ioana Manolescu</a> and <a href='https://oanabalalau.com/'>Oana Balalau</a>. 
 
-My research topic is about natural language tasks over heterogeneous knowledge graphs in project <a href='https://sourcessay.inria.fr/'>SourcesSay</a>. 
+My research topic is about natural language tasks over heterogeneous knowledge graphs in project <a href='https://sourcessay.inria.fr/'>SourcesSay</a>. I'm also interested in fact-checking in social media and news reports.
 
 I'm originally from <a href='https://en.wikipedia.org/wiki/Haiyang'>Haiyang</a>, a small county on the Jiaodong Peninsula in eastern China.
  I received my undergraduate degree from College of Elite Education (now known as the <a href='https://qxs.njust.edu.cn/main.htm'>Qian Xuesen Honours College</a>), Nanjing University of Science and Technology, and I received my master’s degree from <a href='http://www.ict.cas.cn/'>Institute of Computing Technology, Chinese Academy of Sciences</a>.
@@ -34,7 +34,7 @@ I warmly welcome potential collaborators. However, I decline to serve those who 
 
 # 📝 Publications 
 
-- FactSpotter: Evaluating the Factual Faithfulness of Graph-to-Text Generation (To appear)
+- [FactSpotter: Evaluating the Factual Faithfulness of Graph-to-Text Generation](https://hal.science/hal-04257838)
 
   Kun Zhang, Oana Balalau, Ioana Manolescu
 
@@ -50,7 +50,7 @@ I warmly welcome potential collaborators. However, I decline to serve those who 
   
   Kun Zhang, Ping Yao, Rui Wu, Chuanguang Yang, Ding Li, Min Du, Kai Deng, Renbiao Liu, Tianyao Zheng
   
-  **HUMA Workshop, ACM MM 2021**
+  **HUMA Workshop, ACM MM, 2021**
 
 - [Skip Attention GAN for Remote Sensing Image Synthesis](https://ieeexplore.ieee.org/document/9414701) 
   
