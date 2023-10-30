@@ -66,7 +66,7 @@ I warmly welcome potential collaborators. However, I decline to serve those who 
 
 - [Learning Enhanced Resolution-wise Features for Human Pose Estimation](https://ieeexplore.ieee.org/document/9191174) 
   
-  Kun Zhang, Peng He, Ping Yao, Ge Chen, Huimin Li, Li Fu, Tianyao Zheng
+  Kun Zhang, Peng He, Ping Yao, Ge Chen, Rui Wu, Min Du, Huimin Li, Li Fu, Tianyao Zheng
   
   **IEEE ICIP, 2020** 
 
