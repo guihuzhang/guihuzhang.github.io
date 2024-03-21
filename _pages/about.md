@@ -20,6 +20,7 @@ redirect_from:
 I am a third year doctoral student at Inria Saclay-Île-de-France. I work in in the <a href='https://team.inria.fr/cedar/'>CEDAR team</a>, supervised by <a href='https://pages.saclay.inria.fr/ioana.manolescu/'>Ioana Manolescu</a> and <a href='https://oanabalalau.com/'>Oana Balalau</a>. 
 
 My research topic is about natural language tasks over heterogeneous knowledge graphs in project <a href='https://sourcessay.inria.fr/'>SourcesSay</a>.
+The observation of extreme, biased, and unfriendly information online fuels my commitment to developing technologies that promote understanding and bridge gaps.
 
 I'm originally from <a href='https://en.wikipedia.org/wiki/Haiyang'>Haiyang</a>, a small county on the Jiaodong Peninsula in eastern China.
  I received my undergraduate degree from College of Elite Education (now known as the <a href='https://qxs.njust.edu.cn/main.htm'>Qian Xuesen Honours College</a>), Nanjing University of Science and Technology, and I received my master’s degree from <a href='http://www.ict.cas.cn/'>Institute of Computing Technology, Chinese Academy of Sciences</a>.
