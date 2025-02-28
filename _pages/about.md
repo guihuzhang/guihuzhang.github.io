@@ -22,6 +22,8 @@ I am a final-year doctoral student at <a href='https://www.inria.fr/fr/centre-in
 I'm originally from <a href='https://en.wikipedia.org/wiki/Haiyang'>Haiyang</a>, a small county on the Jiaodong Peninsula in eastern China. I studied in the Olympic Class of <a href='https://baike.sogou.com/v4424952.htm'>Haiyang No.1 High School</a>. Before being merged and relocated from the town centre to the seaside by the local government, it had been <a href='https://image109.360doc.com/DownloadImg/2023/09/2519/272795680_15_20230925073510385.jpeg'>a great school</a>. 
 I received my undergraduate degree from College of Elite Education (now known as the <a href='https://qxs.njust.edu.cn/main.htm'>Qian Xuesen Honours College</a>), Nanjing University of Science and Technology, and I received my master’s degree from <a href='http://www.ict.cas.cn/'>Institute of Computing Technology, Chinese Academy of Sciences</a>.
 
+I'd be thankful if you have a potential research position to share with me. 
+
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 <!-- # 🔥 News
