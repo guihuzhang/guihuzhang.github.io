@@ -21,8 +21,8 @@ I am a final year doctoral student at Inria Saclay-Île-de-France. I work in in 
 
 My research topic is about natural language tasks over heterogeneous knowledge graphs in project <a href='https://sourcessay.inria.fr/'>SourcesSay</a>.
 
-I'm originally from <a href='https://en.wikipedia.org/wiki/Haiyang'>Haiyang</a>, a small county on the Jiaodong Peninsula in eastern China.
- I received my undergraduate degree from College of Elite Education (now known as the <a href='https://qxs.njust.edu.cn/main.htm'>Qian Xuesen Honours College</a>), Nanjing University of Science and Technology, and I received my master’s degree from <a href='http://www.ict.cas.cn/'>Institute of Computing Technology, Chinese Academy of Sciences</a>.
+I'm originally from <a href='https://en.wikipedia.org/wiki/Haiyang'>Haiyang</a>, a small county on the Jiaodong Peninsula in eastern China. I studied in the Olympic Class of Haiyang No.1 High School. It was a great school before relocated from the town centre to the seaside by the local government. 
+I received my undergraduate degree from College of Elite Education (now known as the <a href='https://qxs.njust.edu.cn/main.htm'>Qian Xuesen Honours College</a>), Nanjing University of Science and Technology, and I received my master’s degree from <a href='http://www.ict.cas.cn/'>Institute of Computing Technology, Chinese Academy of Sciences</a>.
 
 I'll look for a potential postdoctoral or research position after writing my thesis. I'd be thankful if you have job openings to share with me. 
 
