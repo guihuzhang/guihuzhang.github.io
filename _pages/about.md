@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year doctoral student at <a href='https://www.inria.fr/fr/centre-inria-de-saclay'>Inria Saclay-Île-de-France</a> and <a href='https://www.ip-paris.fr/en'>Institut Polytechnique de Paris</a>. I work in the <a href='https://team.inria.fr/cedar/'>CEDAR team</a>, supervised by <a href='https://pages.saclay.inria.fr/ioana.manolescu/'>Ioana Manolescu</a> and <a href='https://oanabalalau.com/'>Oana Balalau</a>. My research topic is about natural language generation tasks over heterogeneous knowledge graphs.
+I am a final-year doctoral student at <a href='https://www.inria.fr/en/inria-saclay-centre'>Inria Saclay-Île-de-France</a>. I work in the <a href='https://team.inria.fr/cedar/'>CEDAR team</a>, supervised by <a href='https://pages.saclay.inria.fr/ioana.manolescu/'>Ioana Manolescu</a> and <a href='https://oanabalalau.com/'>Oana Balalau</a>. My research topic is about natural language generation tasks over heterogeneous knowledge graphs.
 
 I received my undergraduate degree from College of Elite Education (now known as <a href='https://qxs.njust.edu.cn/main.htm'>Qian Xuesen Honours College</a>), Nanjing University of Science and Technology, and I received my master’s degree from <a href='http://www.ict.cas.cn/'>Institute of Computing Technology, Chinese Academy of Sciences</a>.
 
