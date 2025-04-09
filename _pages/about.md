@@ -39,29 +39,17 @@ I'd be thankful if you have a potential research position to share with me.
 
   **EMNLP Findings, 2023**
 
-- [Transformation Consistency for Remote Sensing Image Super-Resolution](https://ieeexplore.ieee.org/document/10222766)
-
-  Kai Deng, Ping Yao, Siyuan Cheng, Junyu Bi, Kun Zhang
-
-  **IEEE ICIP, 2023**
-
 - [Learning Positional Priors for Pretraining 2D Pose Estimators](https://dl.acm.org/doi/10.1145/3475723.3484252) 
   
   Kun Zhang, Ping Yao, Rui Wu, Chuanguang Yang, Ding Li, Min Du, Kai Deng, Renbiao Liu, Tianyao Zheng
   
   **HUMA Workshop, ACM MM, 2021**
 
-- [Skip Attention GAN for Remote Sensing Image Synthesis](https://ieeexplore.ieee.org/document/9414701) 
-  
-  Kai Deng, Kun Zhang, Siyuan Cheng, Peng He, Ping Yao
-  
-  **IEEE ICASSP, 2021**
-
 - [DSPNet: A Low Computational- cost Network for Human Pose Estimation](https://www.sciencedirect.com/science/article/pii/S0925231220317288) 
   
   Fujin Zhong, Mingyang Li, Kun Zhang, Jun Hu, Li Liu
   
-  **Neurocomputing, 2021** 
+  **Neurocomputing, 2021**
 
 - [Learning Enhanced Resolution-wise Features for Human Pose Estimation](https://ieeexplore.ieee.org/document/9191174) 
   
@@ -80,6 +68,19 @@ I'd be thankful if you have a potential research position to share with me.
   He Li, Zhou Chuanwei, Zhang Kun, Shi Chaoxia
   
   **Computer Engineering, 2017** 
+
+<!-- - [Transformation Consistency for Remote Sensing Image Super-Resolution](https://ieeexplore.ieee.org/document/10222766)
+
+  Kai Deng, Ping Yao, Siyuan Cheng, Junyu Bi, Kun Zhang
+
+  **IEEE ICIP, 2023** -->
+
+<!--  - [Skip Attention GAN for Remote Sensing Image Synthesis](https://ieeexplore.ieee.org/document/9414701) 
+  
+  Kai Deng, Kun Zhang, Siyuan Cheng, Peng He, Ping Yao
+  
+  **IEEE ICASSP, 2021**
+-->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
