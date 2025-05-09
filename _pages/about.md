@@ -19,7 +19,7 @@ redirect_from:
 
 I am a final-year doctoral student at <a href='https://www.inria.fr/en/inria-saclay-centre'>Inria Saclay-Île-de-France</a>. I work in the <a href='https://team.inria.fr/cedar/'>CEDAR team</a>, supervised by <a href='https://pages.saclay.inria.fr/ioana.manolescu/'>Ioana Manolescu</a> and <a href='https://oanabalalau.com/'>Oana Balalau</a>. My research topic is about natural language generation tasks over heterogeneous knowledge graphs.
 
-I received my undergraduate degree from College of Elite Education (now known as <a href='https://qxs.njust.edu.cn/main.htm'>Qian Xuesen Honours College</a>), Nanjing University of Science and Technology, and I received my master’s degree from <a href='http://www.ict.cas.cn/'>Institute of Computing Technology, Chinese Academy of Sciences</a>.
+I received my undergraduate degree from College of Elite Education (now known as <a href='https://qxs.njust.edu.cn/main.htm'>Qian Xuesen Honours College</a>), Nanjing University of Science and Technology, and I received my master’s degree from <a href='http://english.ict.cas.cn/edu/ebi/'>Institute of Computing Technology, Chinese Academy of Sciences</a>.
 
 Originally, I'm from <a href='https://en.wikipedia.org/wiki/Haiyang'>Haiyang</a>, a small county on the Jiaodong Peninsula in eastern China. I studied in the Olympiad Class of <a href='https://baike.sogou.com/v4424952.htm'>Haiyang No.1 High School</a> (Yes, this is its name). Before being relocated from the town centre to the seaside by the local government, it had been <a href='images/hyyz.png'>a great school for decades</a>. 
 
