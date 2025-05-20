@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year doctoral student at <a href='https://www.inria.fr/en/inria-saclay-centre'>Inria Saclay-Île-de-France</a>. I work in the <a href='https://team.inria.fr/cedar/'>CEDAR team</a>, supervised by <a href='https://pages.saclay.inria.fr/ioana.manolescu/'>Ioana Manolescu</a> and <a href='https://oanabalalau.com/'>Oana Balalau</a>. My research topic is about natural language generation tasks over heterogeneous knowledge graphs.
+Welcome to Kun ZHANG's homepage.
+I recently finished my PhD thesis at <a href='https://www.inria.fr/en/inria-saclay-centre'>Inria Saclay-Île-de-France</a>. I worked in the <a href='https://team.inria.fr/cedar/'>CEDAR team</a>, supervised by <a href='https://pages.saclay.inria.fr/ioana.manolescu/'>Ioana Manolescu</a> and <a href='https://oanabalalau.com/'>Oana Balalau</a>. My research interests include data-to-text generation, text-to-data extraction, and the faithfulness of language models.
 
 I received my undergraduate degree from College of Elite Education (now known as <a href='https://qxs.njust.edu.cn/main.htm'>Qian Xuesen Honours College</a>), Nanjing University of Science and Technology, and I received my master’s degree from <a href='http://english.ict.cas.cn/edu/ebi/'>Institute of Computing Technology, Chinese Academy of Sciences</a>.
 
 Originally, I'm from <a href='https://en.wikipedia.org/wiki/Haiyang'>Haiyang</a>, a small county on the Jiaodong Peninsula in eastern China. I studied in the Olympiad Class of <a href='https://baike.sogou.com/v4424952.htm'>Haiyang No.1 High School</a> (Yes, this is its name). Before being relocated from the town centre to the seaside by the local government, it had been <a href='images/hyyz.png'>a great school for decades</a>. 
 
-I'd be thankful if you have a potential research position to share with me. 
+I'd be thankful if you have a potential research position or an interesting research topic to share with me.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -32,6 +33,12 @@ I'd be thankful if you have a potential research position to share with me.
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+
+- Structured Discourse Representation for Factual Consistency Verification
+
+  Kun Zhang, Oana Balalau, Ioana Manolescu
+
+  **ACL Findings, 2023** (To Appear)
 
 - [FactSpotter: Evaluating the Factual Faithfulness of Graph-to-Text Generation](https://hal.science/hal-04257838)
 
