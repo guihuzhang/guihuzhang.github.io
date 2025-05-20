@@ -24,7 +24,7 @@ I received my undergraduate degree from College of Elite Education (now known as
 
 Originally, I'm from <a href='https://en.wikipedia.org/wiki/Haiyang'>Haiyang</a>, a small county on the Jiaodong Peninsula in eastern China. I studied in the Olympiad Class of <a href='https://baike.sogou.com/v4424952.htm'>Haiyang No.1 High School</a> (Yes, this is its name). Before being relocated from the town centre to the seaside by the local government, it had been <a href='images/hyyz.png'>a great school for decades</a>. 
 
-I'd be thankful if you have a potential research position or an interesting research topic to share with me.
+I'd be thankful if you have a research position or an interesting research topic to share with me.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
