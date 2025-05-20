@@ -38,7 +38,7 @@ I'd be thankful if you have a potential research position or an interesting rese
 
   Kun Zhang, Oana Balalau, Ioana Manolescu
 
-  **ACL Findings, 2023** (To Appear)
+  **ACL Findings, 2025** (To Appear)
 
 - [FactSpotter: Evaluating the Factual Faithfulness of Graph-to-Text Generation](https://hal.science/hal-04257838)
 
