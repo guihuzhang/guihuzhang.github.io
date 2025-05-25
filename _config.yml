@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "ZHANG Kun (張坤)"
+title                    : "ZHANG Kun (張坤, ʈʂaŋ˧˥kʰuən˥˩)"
 description              : "Originally the world had no road. Once enough people have walked the same path, a road has formed."
 repository               : "guihuzhang.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "ZHANG Kun (張坤)"
+  name             : "ZHANG Kun (張坤, ʈʂaŋ˧˥kʰuən˥˩)"
   avatar           : "images/hats.png"
   bio              : 
   location         : "Palaiseau, France"
