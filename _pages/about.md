@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I recently finished my PhD thesis at <a href='https://www.inria.fr/en/inria-saclay-centre'>Inria Saclay-Île-de-France</a>. I worked in the <a href='https://team.inria.fr/cedar/'>CEDAR team</a>, supervised by <a href='https://pages.saclay.inria.fr/ioana.manolescu/'>Ioana Manolescu</a> and <a href='https://oanabalalau.com/'>Oana Balalau</a>. My research interests include data-to-text generation, text-to-data extraction, and the faithfulness of language models.
+I recently finished my PhD thesis at <a href='https://www.inria.fr/en/inria-saclay-centre'>Inria Saclay-Île-de-France</a>. I worked in the <a href='https://team.inria.fr/cedar/'>CEDAR team</a>, supervised by <a href='https://pages.saclay.inria.fr/ioana.manolescu/'>Ioana Manolescu</a> and <a href='https://oanabalalau.com/'>Oana Balalau</a>. My research interests include data-to-text generation, text-to-data extraction, constrained decoding, and the faithfulness of language models.
 
 I received my undergraduate degree from College of Elite Education (now known as <a href='https://qxs.njust.edu.cn/main.htm'>Qian Xuesen Honours College</a>), Nanjing University of Science and Technology, and I received my master’s degree from <a href='http://english.ict.cas.cn/edu/ebi/'>Institute of Computing Technology, Chinese Academy of Sciences</a>.
 
