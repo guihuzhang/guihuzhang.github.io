@@ -37,7 +37,7 @@ I'd be thankful if you have a research position or an interesting research topic
 
   Kun Zhang, Oana Balalau, Ioana Manolescu
 
-  **ACL Findings, 2025** (To Appear)
+  **ACL Findings, 2025** (Top 0.76% meta score)
 
 - [FactSpotter: Evaluating the Factual Faithfulness of Graph-to-Text Generation](https://hal.science/hal-04257838)
 
